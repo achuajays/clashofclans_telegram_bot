@@ -33,7 +33,6 @@ async def get_openai_response(user_query):
 
         return chat_completion.choices[0].message.content
     except Exception as e:
-        print(f"OpenAI API error: {e}")
         return "Sorry, I couldn't process that. Please try again later."
 
 # Start command handler
