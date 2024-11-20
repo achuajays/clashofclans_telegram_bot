@@ -62,7 +62,7 @@ This is a real-time Clash of Clans assistant bot built using Python, Telegram Bo
 
 ```plaintext
 .
-├── bot.py              # Main script for running the bot
+├── telegram_aibot.py              # Main script for running the bot
 ├── .env                # Environment variables (add to .gitignore)
 ├── requirements.txt    # Project dependencies
 └── README.md           # Project documentation
