@@ -53,7 +53,7 @@ This is a real-time Clash of Clans assistant bot built using Python, Telegram Bo
 
 5. Run the bot:
     ```bash
-    python bot.py
+    python telegram_aibot.py
     ```
 
 ---
